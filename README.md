@@ -1,0 +1,2 @@
+This game consists of a typing challenge. The player is asked to tap as much as possible of a long text, getting extra points if he or she writes synonyms of the given words.
+The game was written in Java, using Swing as its GUI toolkit.
